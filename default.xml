@@ -5,7 +5,7 @@
            fetch="https://android.googlesource.com" />
   <remote name="jmz"
            fetch="https://github.com/jmz-aosp/"
-           review="http://gerrit.jmz.space" />
+           review="gerrit.jmz.space" />
   <remote name="opengapps"
            fetch="https://github.com/opengapps/" />
   <default revision="refs/tags/android-7.0.0_r21"
