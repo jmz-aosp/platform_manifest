@@ -353,7 +353,6 @@
   <project path="hardware/ti/omap3" name="platform/hardware/ti/omap3" groups="omap3" />
   <project path="hardware/ti/omap4-aah" name="platform/hardware/ti/omap4-aah" groups="omap4-aah" />
   <project path="hardware/ti/omap4xxx" name="platform/hardware/ti/omap4xxx" groups="omap4" />
-  <project path="libcore" name="platform/libcore" groups="pdk" />
   <project path="libnativehelper" name="platform/libnativehelper" groups="pdk" />
   <project path="ndk" name="platform/ndk" groups="generic_fs" />
   <project path="packages/apps/BasicSmsReceiver" name="platform/packages/apps/BasicSmsReceiver" groups="pdk-cw-fs,pdk-fs" />
@@ -502,6 +501,7 @@
   <project path="prebuilts/build-tools" name="platform_prebuilts_build-tools" remote="jmz" revision="n" />
   <project path="kernel/moto/shamu" name="platform_kernel_moto_shamu" remote="jmz" revision="n" />
   <project path="packages/apps/OTAUpdates" name="platform_packages_apps_OTAUpdater" remote="jmz" revision="n" />
+  <project path="libcore" name="platform_libcore" remote="jmz" revision="n" />
   
 <!-- GApps-->
   <project path="vendor/google/build" name="aosp_build" revision="master" remote="opengapps" />
